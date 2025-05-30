@@ -1,9 +1,9 @@
 # TATVASOFT_internsip
 ## Zeel Oza
-<h2> ENROLLMENT_NUMBER : 22BECE30198</h2>
+<h4> ENROLLMENT_NUMBER : 22BECE30198</h4>
 This is the repository that contains all my works during the 15 days of Summer Intership at TATVASOFT.
 
-<h1>"Virtual Community Support"</h1>
+<h3>"Virtual Community Support"</h3>
 <p>Day 1 : Introduction to PostgreSQL
 • Learn basics of SQL, set up PostgreSQL database, and Database Schema CI platform.
 • Hands-on: Able to create, insert, Update, Delete and sub-query data in PostgreSQL.
