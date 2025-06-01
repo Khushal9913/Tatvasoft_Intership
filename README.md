@@ -1,7 +1,7 @@
-# TATVASOFT_internsip
-## Zeel Oza
-<h4> ENROLLMENT_NUMBER : 22BECE30198</h4>
-This is the repository that contains all my works during the 15 days of Summer Intership at TATVASOFT.
+# TATVASOFT_Internsip
+## Modi Khushal Rakeshkumar
+<h4> ENROLLMENT_NUMBER : 223SBECE30021</h4>
+This repository was contain's all my task Of Summer Intership at TATVASOFT.
 
 <h3>"Virtual Community Support"</h3>
 <p>Day 1 : Introduction to PostgreSQL
